@@ -143,7 +143,7 @@ Common disadvantages of refractoring code is that it can be time consuming and c
 The advantage of refractoring the Green Stock Analysis VBA code was the decline of the macro runtime and more easily accessable read. The disadvantage of refractoring the Green Stock Analysis VBA code was time - it was an added step that cost time. However, overall refractoring the code is worth the time to make it more accessable and faster for the client. Below are the screenshots with the refractored run time.
 
 ![VBA_Challenge_2017](https://github.com/adecoste2/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
-![VBA_Challenge_2018](VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://github.com/adecoste2/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
 
 
 
